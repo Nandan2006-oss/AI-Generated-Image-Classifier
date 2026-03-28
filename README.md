@@ -1,4 +1,5 @@
-# AI-Generated-Image-Classifier# 🧠 AI Image Authenticity Detector
+
+# 🧠 AI Image Authenticity Detector
 
 A machine learning project that detects whether an image is **real** or **AI-generated** using progressively built models — starting from raw pixel data to more advanced deep learning techniques.
 
